@@ -1,0 +1,17 @@
+.boss-name{
+   color: rgb(255, 0, 25);
+}
+.button-click{
+    background-color: rgb(141, 7, 118);
+    line-height: 2rem;
+    width: 155px;
+    height: 35px;
+    margin: 10px;
+   
+    border: 1px solid rgb(20, 20, 20);  
+    color: white;
+    border-radius:5px;
+    cursor: pointer;
+    
+
+}

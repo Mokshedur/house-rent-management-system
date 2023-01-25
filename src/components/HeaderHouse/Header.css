@@ -1,0 +1,15 @@
+.head01{
+    color: brown;
+}
+.navControler{
+    background-color: blueviolet;
+    line-height: 3rem;
+    
+}
+
+.navControler a{
+    color: aliceblue;
+    margin-right : 6rem;
+    font-size: 1.2rem;
+    text-decoration: none;
+};
