@@ -8,12 +8,12 @@ import { faDollarSign } from '@fortawesome/free-solid-svg-icons';
 const HouseCart = (props) => {
     const {houseCart}= props;
     let total = 0
-    // let name = 0 ;
-    let name = [];
+    let name = 0 ;
+  
     for(const cart of houseCart){
         total = total+cart.price;
-    // name = name + ' '+cart.landLordName;
-    name = cart.landLordName;
+    name = name + ' '+cart.landLordName;
+   
     
 
     
